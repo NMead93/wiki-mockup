@@ -1,0 +1,23 @@
+.main-col, .container {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.sign-in {
+  float: right;
+  padding-left: 3px;
+  padding-right: 3px;
+  display: inline;
+}
+
+.nav-left {
+  float: left;
+}
+
+.nav-right {
+  float: right;
+}
+
+.nav {
+  display: inline-block;
+}
