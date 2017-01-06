@@ -41,3 +41,11 @@ img {
 .right-main-col {
   width: 85%;
 }
+
+.purple {
+  background-color: #faf5ff;
+}
+
+.purple .panel-heading {
+  background-color: #ddcef2;
+}
