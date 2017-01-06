@@ -29,3 +29,15 @@
 .blue-col {
   background-color: rgb(245, 250, 255);
 }
+
+img {
+  height: 125px;
+}
+
+.left-main-col {
+  width: 15%;
+}
+
+.right-main-col {
+  width: 85%;
+}
